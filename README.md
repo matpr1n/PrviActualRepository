@@ -1,5 +1,5 @@
 # PrviActualRepository
-# Živjo! Sem [Tvoje Ime] 👋
+# Živjo! Sem Matija
 
 - 📍 Prihajam iz **Goriških Brd**
 - 💻 Strasten navdušenec nad **virtualizacijo, montažo videov in fotografijo**
